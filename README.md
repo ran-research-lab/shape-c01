@@ -1,3 +1,3 @@
-### Student
+### Shape
 
-Dr. Llubere's class example. You should understand most of what is happenning in these files.
+Exercise to practice inheritance.
