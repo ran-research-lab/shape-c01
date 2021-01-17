@@ -5,13 +5,13 @@
 #include "Rectangle.h"
 
 double Rectangle::getArea() const {
-
     return 0.0;
 }
 
 double Rectangle::getPerimeter() const {
     return 0.0;
 }
+
 void Rectangle::setWidth(double w) {
 }
 
